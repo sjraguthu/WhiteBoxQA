@@ -1,0 +1,7 @@
+WhiteBoxQA/bin/*
+WhiteBoxQA/obj/Debug/*
+WhiteBoxQA.Tests/bin/*
+WhiteBoxQA.Tests/obj/Debug/*
+WhiteBoxQA/WhiteBoxQA.csproj.user
+WhiteBoxQA.suo
+WhiteBoxQA.v12.suo
